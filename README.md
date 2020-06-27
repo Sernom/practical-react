@@ -1,6 +1,20 @@
+## Redux Tutorial (1st Half)
+
+This project was made from the react-redux tutorials taken on youtube from the channel [codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)!
+
+See playlist [here](https://www.youtube.com/watch?v=LZhwNGpiTEI&list=PLC3y8-rFHvwhAh1ypBvcZLDO6I7QTY5CM&index=1).
+
+Please support codevolution! [Patreon](https://www.patreon.com/codevolution/posts).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+## `npm start-deck`
+
+Launches a slideshow build of the markdown deck (markdown javascript).
+
+Press the arrow keys once the page loads to navigate!
 
 In the project directory, you can run:
 
