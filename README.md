@@ -1,4 +1,4 @@
-## Redux Tutorial (1st Half)
+## Practical React
 
 This project was made from the react-redux tutorials taken on youtube from the channel [codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)!
 
