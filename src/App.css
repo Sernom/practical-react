@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+.chart {
+  width: 720px;
+}
+
+.chartContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.player {
+  display: flex;
+  justify-content: center;
+}
+
+.spinners {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +56,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+input {
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s;
 }
