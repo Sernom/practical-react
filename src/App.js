@@ -22,7 +22,7 @@ function App() {
 
 	return (
 		<div className='App'>
-			<h1>Pratical React</h1>
+			<h1>Practical React</h1>
 			<br />
 			<h3>React Package Demos</h3>
 			<select onChange={e => setShowDemo(e.target.value)}>
