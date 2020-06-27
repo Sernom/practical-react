@@ -10,13 +10,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the project directory, you can run:
+
 ## `npm start-deck`
 
 Launches a slideshow build of the markdown deck (markdown javascript).
 
 Press the arrow keys once the page loads to navigate!
 
-In the project directory, you can run:
 
 ### `npm start`
 
